@@ -13,6 +13,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Auto-recover
+Hazel/~AutoRecover.Hazel.*
+
 # Mono auto generated files
 mono_crash.*
 
